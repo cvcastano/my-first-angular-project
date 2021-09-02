@@ -1,0 +1,8 @@
+/* navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+.navbar_item {
+    padding-left: 2rem;
+}
